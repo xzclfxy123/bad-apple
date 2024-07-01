@@ -1,9 +1,0 @@
-{
-  "navigationBarTitleText": "泉海信工学院餐饮", 
-  "onReachBottomDistance": 200,
-  "enablePullDownRefresh": true,
-  "navigationBarBackgroundColor": "#39c5bb",
-  "navigationBarTextStyle":"black",
-  "backgroundColor": "#efefef",
-  "backgroundTextStyle": "dark"
-}
